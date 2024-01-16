@@ -1,0 +1,15 @@
+The explanations were written in the text in the geogebra link.
+
+Q1 - )https://www.geogebra.org/m/jvcewqbb 
+
+Q2 - )https://www.geogebra.org/m/jqumcpdm
+
+Q3 - )https://www.geogebra.org/m/jbfhgwzy
+
+Q4 - )https://www.geogebra.org/m/ernqnffz 
+
+For the Q4 - ) I tried to create a eularian near triangulation using this article:https://web.pdx.edu/~caughman/Carter501.pdf
+however, it is not possible according to the calculation.
+I will provide the algorithm in my code
+
+Q5 - )https://www.geogebra.org/m/h4dvdjgt
